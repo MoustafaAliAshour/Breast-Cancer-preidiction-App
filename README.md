@@ -76,4 +76,4 @@ Data: UCI Machine Learning Repository
 Created using: Python, Streamlit, scikit-learn, Matplotlib, Seaborn
 
 ## 📬 Contact
-For questions or contributions, open an issue or contact: youremail@example.com
+For questions or contributions, open an issue or contact: es-moustafa.aly2027@alexu.edu.eg
