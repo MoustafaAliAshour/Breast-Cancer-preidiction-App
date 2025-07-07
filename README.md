@@ -19,5 +19,5 @@ This Streamlit web application predicts whether a breast tumor is **Malignant (c
 ### 1. Clone or Download the Project
 
 ```bash
-git clone https://github.com/yourusername/breast-cancer-app.git
+git clone https://github.com/MoustafaAliAshou/breast-cancer-app.git
 cd breast-cancer-app
