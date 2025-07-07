@@ -18,7 +18,6 @@ This Streamlit web application predicts whether a breast tumor is **Malignant (c
 
 ### 1. Clone or Download the Project
 
-```bash
 git clone https://github.com/MoustafaAliAshour/breast-cancer-app.git
 cd breast-cancer-app
 Or just download the ZIP and extract it.
@@ -26,15 +25,9 @@ Or just download the ZIP and extract it.
 2. Install Dependencies
 Make sure Python 3.7+ is installed. Then run:
 
-bash
-نسخ
-تحرير
 pip install -r requirements.txt
 Or manually:
 
-bash
-نسخ
-تحرير
 pip install streamlit pandas numpy scikit-learn matplotlib seaborn
 3. Add Dataset
 Make sure the data.csv file is in the same folder. You can download it from:
@@ -44,20 +37,12 @@ Make sure the data.csv file is in the same folder. You can download it from:
 4. Run the App
 Launch the Streamlit app with:
 
-bash
-نسخ
-تحرير
 streamlit run streamlit_app.py
 Then open your browser to:
 
-arduino
-نسخ
-تحرير
 http://localhost:8501
 📁 File Structure
-bash
-نسخ
-تحرير
+
 📦 breast-cancer-app/
 ├── data.csv                # Dataset file
 ├── streamlit_app.py        # Streamlit app source code
