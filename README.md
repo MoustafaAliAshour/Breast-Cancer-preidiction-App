@@ -14,6 +14,12 @@ This Streamlit web application predicts whether a breast tumor is **Malignant (c
 
 ---
 
+[🔗 Streamlit App](https://breast-cancer-preidiction-app-vjpsvsxmkqwivssxawysvv.streamlit.app/)
+
+[📂 Project Repo](https://github.com/MoustafaAliAshour/Breast-Cancer-preidiction-Appp)
+
+---
+
 ## 🚀 Getting Started
 
 ### 1. Clone or Download the Project
